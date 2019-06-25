@@ -13,5 +13,8 @@ $ cd my-project && npm start
 ```
 
 
-# 安装好工具后使用 npm start 启动项目
+# 安装好工具后使用
+# npm install
+# npm start 
+# 启动项目
 
