@@ -178,7 +178,7 @@
     margin: 0 20px;
   }
   .qq{
-    background-image: url("/src/img/qq.svg");
+    background-image: url("/src/img/qq.png");
   }
   .weix{
     background-image: url("/src/img/weix.png");
